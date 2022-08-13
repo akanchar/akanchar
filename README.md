@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @akanchar
+- 👋 Hi, I’m Abhilash Kancharla
 - 👀 I’m interested in learning new programming languages, developing mobile applications and games using Unity.
 - 🌱 I’m currently learning Unity and Blender.
 - 📫 How to reach me - kancharla.abhilash@outlook.com
